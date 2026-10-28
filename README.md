@@ -9,7 +9,7 @@ Aplikasi ini memiliki fitur simulasi login sederhana dengan validasi. Setelah lo
 HTML5: Struktur semantik halaman.
 CSS3 (Vanilla): Styling responsif menggunakan Grid dan Flexbox.
 JavaScript (Vanilla JS): Seluruh logic aplikasi, termasuk penanganan state, interaksi DOM (Document Object Model), Fetch API, dan simulasi login, dibangun 100% menggunakan native JavaScript tanpa framework.
-
+'test'
 ## Cara Menjalankan Aplikasi
 Aplikasi ini sepenuhnya statis (Client-side), sehingga tidak memerlukan instalasi backend atau dependencies npm.
 1. Clone repository ini ke komputer lokal Anda.
